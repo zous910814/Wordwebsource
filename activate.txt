@@ -1,0 +1,5 @@
+1.打開VSCODE FLASK SERVER 拿到PORT
+
+2.打開NGROK 輸入NGROK http port
+
+3.進入網址 FORWARDING
